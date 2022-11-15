@@ -1,7 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this paper, please cite it as below."
-authors:
-  - family-names: Zhang
-    given-names: Ziyue
-title: "Optimisation of logistic regression with KNN to analyze IBM Employee Turnover"
-date-released: 2022-10-29
